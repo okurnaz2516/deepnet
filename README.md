@@ -1,0 +1,2 @@
+# deepnet
+cnn_mnist
